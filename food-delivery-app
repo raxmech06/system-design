@@ -1,1 +1,15 @@
 
+Requirement:
+1. As a customer I should be able to see restaurants in the locality, their menus.
+2. As a customer I should be able to select food items and add them to cart.
+3. As a customer I should be able to place order.
+4. As a customer I should be able to receive notification/update regarding my order.
+5. As a platform app should drop the order to restaurant.
+6. As a platform delivery app should be able to assign delivery person to the order.
+7. As a platform app should update/notify user with the order updates.
+
+Actors:
+1. Customer/User
+2. Restaurant
+3. Delivery Person
+4. App System
